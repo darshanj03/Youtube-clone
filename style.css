@@ -95,7 +95,7 @@ body {
 }
 
 .video-section-title {
-  grid-column: 1/ -1;
+  grid-column: 1 / -1;
   margin: -0.5rem 0;
   display: flex;
   justify-content: space-between;
@@ -104,8 +104,6 @@ body {
 }
 
 .video-section-title-close {
-  width: 5px;
-  height: 5px;
   border: none;
   background: none;
   padding: 0;
