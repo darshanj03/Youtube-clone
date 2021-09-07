@@ -55,6 +55,7 @@ body {
 .bottom-section {
   display: flex;
   align-items: flex-start;
+  margin-top: 1rem;
 }
 
 .channel-image {
